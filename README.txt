@@ -16,6 +16,6 @@ From the command line:
 #
 Using R or R Studio:
 (1) open new console window
-(2) execute: source("~/\{DIRECTORY\}/photoferrotrophy.R")
+(2) execute: source('~/{DIRECTORY}/photoferrotrophy.R')
 (3) output will be stored as above
 #
