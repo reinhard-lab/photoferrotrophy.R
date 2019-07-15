@@ -10,11 +10,8 @@ REQUIREMENTS: R and/or R Studio, packages ReacTran, rootSolve, deSolve, shape, m
 TO RUN THE CODE
 #
 From the command line:
-#
 (1) navigate to the directory hosting photoferrotrophy.R
-#
 (2) execute: Rscript photoferrotrophy.R
-#
 (3) output will be stored in the as "photosynth.out.csv" in the directory specified in Line 200
 #
 Using R or R Studio:
