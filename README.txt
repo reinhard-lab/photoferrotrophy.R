@@ -2,6 +2,7 @@
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # photoferrotrophy.R
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#
 1-D water column model for competition between oxygenic and anoxygenic phototrophs
 #
 This script models competition between oxygenic (cyanobacterial) and anoxygenic (photoferrotrophic) photosynthetic bacteria in an idealized 1-D water column.  The model parameters and equations are described in K. Ozaki, K.J. Tompson, R.L. Simister, S.A. Crowe, and C.T. Reinhard [2019] "Anoxygenic photosynthesis and the delayed oxygenation of Earth's atmosphere", Nature Communications, doi:10.1038/s41467-019-10872-z
